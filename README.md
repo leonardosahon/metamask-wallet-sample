@@ -1,0 +1,1 @@
+# metamask-about-sample
