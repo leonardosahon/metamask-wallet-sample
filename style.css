@@ -279,10 +279,10 @@ form {
   margin-top: 0em;
 }
 
-form input[type="text"] {
+form textarea {
   margin: 20px 0;
-  height: 30px;
-  width: 180px;
+  width: 90%;
+  padding: 10px;
   background-color: #037dd6;
   color: white;
   border: none;
@@ -290,7 +290,7 @@ form input[type="text"] {
   outline: none;
 }
 
-form input::placeholder {
+form textarea::placeholder {
   color: white;
 }
 
